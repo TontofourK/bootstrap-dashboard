@@ -1,0 +1,22 @@
+.dash-bar{
+  background-color: grey;
+}
+
+.dash-view{
+  background-color: rgb(52, 50, 50);
+  color: white;
+}
+
+.cards-view{
+  background-color: black;
+  color: white;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+
+.active{
+  margin ;
+}
+
